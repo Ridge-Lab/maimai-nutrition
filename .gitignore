@@ -1,0 +1,7 @@
+.env*
+!.env.example
+.sites-runtime/
+node_modules/
+*.tar.gz
+*.tgz
+*.log
