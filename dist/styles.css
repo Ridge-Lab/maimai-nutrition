@@ -574,3 +574,5 @@ html[data-keyboard-open] .selection-dock { display:none; }
   .choice-option.is-multiple .choice-option-state { grid-column:1; grid-row:auto; justify-self:start; }
   .configuration-coverage-note,.nutrition-missing-list { padding:12px; }
 }
+
+footer .source-repository { display:inline-flex; align-items:center; min-height:44px; color:#526747; font-size:14px; text-underline-offset:4px; }
